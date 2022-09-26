@@ -52,5 +52,11 @@ The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content
   * cap_add:
     - NET_ADMIN
   * restart: As you wish to choose.
-      
+
+Don't forget to add the local Raspberry Pi IP in your Router's DNS settings. Change from `AUTO` to `STATIC`.
+
+## Future Planned Installations:  
+ * Heimdall
+ * Plex-Server
+ * Home Automation Tool
 
